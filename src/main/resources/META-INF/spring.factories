@@ -1,0 +1,2 @@
+org.springframework.boot.env.EnvironmentPostProcessor=\
+  io.github.joker.pper.p6spy.core.P6spyEnvironmentPostProcessor
