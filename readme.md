@@ -6,6 +6,12 @@
 
     通过属性配置便可以自动替换springboot数据源中p6spy的配置(支持常见数据库).
 
+### 项目地址
+
+[https://github.com/joker-pper/p6spy-starter](https://github.com/joker-pper/p6spy-starter)
+
+[https://gitee.com/joker-pper/p6spy-starter](https://gitee.com/joker-pper/p6spy-starter)
+
 ### 功能介绍
     
  + 仅对springboot中的环境变量配置进行自动替换 (p6spy使用方式与原来一致)
@@ -94,8 +100,10 @@ spring:
 
 ### 示例项目
 
- [https://github.com/joker-pper/p6spy-starter-samples](https://github.com/joker-pper/p6spy-starter-samples)
- 
+[https://github.com/joker-pper/p6spy-starter-samples](https://github.com/joker-pper/p6spy-starter-samples)
+
+[https://gitee.com/joker-pper/p6spy-starter-samples](https://gitee.com/joker-pper/p6spy-starter-samples)
+
 
 
 ### 其他
